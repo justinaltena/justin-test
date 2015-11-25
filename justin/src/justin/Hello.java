@@ -13,10 +13,5 @@ public class Hello {
 		this.color = color;
 		this.awake = awake; 
 	}
-	
-	public static void main(String[] args) {
-		Hello benno = new Hello(17, false, "purple", true);
-		
-	}
 
 }
