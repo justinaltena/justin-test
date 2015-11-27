@@ -3,6 +3,7 @@ package justin;
 public class Hello {
 	
 	private int legs;
+	private boolean hasTail;
 
 	
 	public Hello (int legs, boolean hasTail, String color, boolean awake) {
