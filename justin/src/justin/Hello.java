@@ -13,5 +13,9 @@ public class Hello {
 		this.color = color;
 		this.awake = awake; 
 	}
+	
+	public boolean isAwake(){
+		return awake;
+	}
 
 }
